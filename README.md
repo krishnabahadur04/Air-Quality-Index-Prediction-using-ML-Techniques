@@ -72,9 +72,7 @@ The project compares different regression models to predict AQI values. Key find
 - Implement time series forecasting for multi-day predictions
 - Expand to more geographical locations
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
